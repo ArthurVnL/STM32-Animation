@@ -323,7 +323,7 @@ void thanksTo()
   display.setCursor(10, 35); //Set the starting point of the text (x,y)
   display.println("Thanks to:"); //Text or value to print
   display.display(); //Display the above code
-  delay(1000);
+  delay(2000);
 }
 
 void names()
@@ -333,5 +333,5 @@ void names()
   display.setCursor(0, 23); //Set the starting point of the text (x,y)
   display.println("    5G,\n   Olaf &\n   Arthur"); //Text or value to print
   display.display(); //Display the above code
-  delay(1000);
+  delay(2000);
 }
