@@ -8,6 +8,8 @@ Belangrijke opmerkingen:
 
 Lees [dit](https://github.com/ArthurVnL/STM32-Stick/raw/master/Read%20before%20opening%20code.docx) document om de code naar de Nucleo te uploaden.
 
+Als er problemen ondervonden worden bij het schrijven van de code gelieve ons te contacteren via mail.
+
 Bronnnen:
 - https://github.com/adafruit/Adafruit_SSD1306
 - https://github.com/adafruit/Adafruit-GFX-Library
